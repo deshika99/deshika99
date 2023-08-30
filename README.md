@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deshika Hansini</h1>
 <h3 align="center">About Me! I'm a 2nd year student BSC(Hons) Computer Science & Software Engineering from SLIIT ACADEMY.  My passion is learning about new dimensions in technology and applying them in a functional space.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426">
+
 
 - 🔭 I’m currently working on **Developer.**
 
