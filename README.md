@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deshika Hansini</h1>
-<h3 align="center">About Me! I'm a 2nd year student BSC(Hons) Computer Science & Software Engineering from SLIIT ACADEMY.  My passion is learning about new dimensions in technology and applying them in a functional space.</h3>
+<h3 align="center">About Me! I'm a Final year student BSC(Hons)  Software Engineering from SLIIT City Uni.  My passion is learning about new dimensions in technology and applying them in a functional space.</h3>
 
 
 
